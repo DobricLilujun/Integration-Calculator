@@ -1,0 +1,55 @@
+Element		  Element.type	    Element.identify	Element.data
+#					0					0				0
++					0					1				0
+-					0					2				0
+*					0					3				0
+/					0					4				0
+^					0					5				0
+(					0					6				0
+)					0					7				0
+
+sin					0					8				0
+cos					0					9				0
+tan					0					10				0
+csc					0					11				0
+sec					0					12				0
+cot					0					13				0
+
+asin				0					14				0
+acos				0					15				0
+atan				0					16				0
+acsc				0					17				0
+asec				0					18				0
+acot				0					19				0
+
+sinh				0					20				0
+cosh				0					21				0
+tanh				0					22				0
+csch				0					23				0
+sech				0					24				0
+coth				0					25				0
+
+asinh				0					26				0
+acosh				0					27				0
+atanh				0					28				0
+acsch				0					29				0
+asech				0					30				0
+acoth				0					31				0
+
+exp					0					32				0
+log					0					33				0
+lg					0					34				0
+ln					0					35				0
+
+sqrt				0					36				0
+abs					0					37				0
+
+数字					1					0				数字本身
+
+PI					1					0				PI
+
+x					2					1				0
+
+例外					-1					0				0
+
+
